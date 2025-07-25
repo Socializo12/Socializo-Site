@@ -172,23 +172,6 @@ const Header = () => {
                   </div>
               </div>
             </div>
-     
-              
-        
-            <div className="my-[20px] flex flex-row justify-around items-center partner-logos">
-              <div>
-                <Image src="/assets/image1.png" alt="Partner 1" width={160} height={80} />
-              </div>
-              <div>
-                <Image src="/assets/image2.png" alt="Partner 2" width={160} height={80} />
-              </div>
-              <div>
-                <Image src="/assets/image3.png" alt="Partner 3" width={160} height={80} />
-              </div>
-              <div>
-                <Image src="/assets/image4.png" alt="Partner 4" width={160} height={80} />
-              </div>
-            </div>
           </div>
         </div>
     </div>
